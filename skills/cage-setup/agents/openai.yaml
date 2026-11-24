@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Cage 安装与链式代理"
+  short_description: "安装或接续配置 Claude Cage，验证前置链路、客机网络和最终出口"
+  default_prompt: "用 $cage-setup 检查本机 Cage，完成安装或接续配置，并验证我指定的前置和出口。"
